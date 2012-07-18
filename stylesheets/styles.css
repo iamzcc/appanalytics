@@ -788,7 +788,7 @@ header p {
   right: 7px;
   top: 7px;
   display: block;
-  background: url(../images/octocat-logo.png);
+  background: url(../images/aa-logo-36.png);
 }
 
 section {
@@ -926,7 +926,7 @@ footer {
     -ms-text-overflow: ellipsis;
   }
   header p {
-    display: none;
+/*     display: none; */
   }
 
   #banner {
@@ -952,7 +952,7 @@ footer {
 }
 @media print, screen and (max-width: 480px) {
   header {
-    position: relative;
+/*     position: relative; */
     padding: 5px 0px;
     min-height: 0px;
   }
@@ -966,11 +966,11 @@ footer {
   }
 
   section {
-    margin-top: 5px;
+/*     margin-top: 5px; */
   }
 
   #banner {
-    display: none;
+    /* display: none; */
   }
 
   header ul {
