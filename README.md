@@ -11,6 +11,5 @@ AppAnalytics tracks how long time you spent on each app and how many times you h
 ```
 ### Screen Shot
 ---
-![Album Select](http://iamzcc.github.com/ELCImagePickerController/images/1.jpg)
-![Asset Picker](http://iamzcc.github.com/ELCImagePickerController/images/2.jpg)
-![Exceed Maximum Selection](http://iamzcc.github.com/ELCImagePickerController/images/3.jpg)
+![Main Screen](http://iamzcc.github.com/appanalytics/images/s1.jpg)
+![Slide Screen](http://iamzcc.github.com/appanalytics/images/s2.jpg)
